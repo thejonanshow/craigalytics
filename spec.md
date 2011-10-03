@@ -21,5 +21,3 @@ The count method can take a single string or an array of strings.
 That's it for now. In the future I will be adding the ability to ask for keywords from a specific date range and a method of doing visual keyword comparisons using graphs and charts.
 
 You may notice that it doesn't exist yet, and then you will go read this article: http://tom.preston-werner.com/2010/08/23/readme-driven-development.html and everything will become clear.
-
-TODO: Actually write this readme and transfer it to a spec, copying the documentation back to this readme as it is implemented.
